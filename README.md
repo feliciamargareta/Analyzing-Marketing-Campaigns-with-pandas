@@ -5,7 +5,7 @@ DataCamp Case Study: Analyzing Marketing Campaigns with pandas
 We'll practice translating common business questions into measurable outcomes, including "How did this campaign perform?", "Which channel is referring the most subscribers?", "Why is a particular channel underperforming?" and more using a fake marketing dataset based on the data of an online subscription business.
 This project will build on Python and pandas fundamentals, such as merging/slicing datasets, groupby(), correcting data types and visualizing results using matplotlib.
 
-# Analysis consisted of following activities (in sequence)
+## Analysis consisted of following activities (in sequence)
 1. Visualizing daily marketing reach
 2. Calculating conversion rate and retention rate
 3. Visualizing daily conversion rate
